@@ -138,6 +138,11 @@ body {
     width: 100%;
 }
 
+.about .right-side img{
+    background-color: var(--bg-yellow);
+    height: 297px;
+    width:297px;
+}
 
 .about .right-side {
     display: flex;
@@ -212,13 +217,15 @@ body {
     width: 35%;
 }
 
+.footer .links .sub-heading {
+    font-size: 17px;
+}
+
+
 .footer .links {
     margin-right: 60px;
 }
 .footer .navlinks .sub-heading {
-    font-size: 17px;
-}
-.footer .links .sub-heading {
     font-size: 17px;
 }
 
